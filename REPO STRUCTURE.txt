@@ -1,0 +1,19 @@
+uriel/
+├── core/
+│   ├── truth_engine.py      ← ZK + on-chain verification
+│   ├── ad_generator.py      ← AI ads (Stable Diffusion + Gemini)
+│   ├── traffic_router.py    ← P2P + browser injection
+│   └── seo_engine.py
+├── network/
+│   ├── ad_network.py        ← Open ad placement
+│   ├── node_server.py       ← Run your own node
+│   └── ipfs_storage.py
+├── frontend/
+│   ├── dashboard/           ← Business owner panel
+│   ├── extension/
+│   └── pwa/
+├── ai/
+│   └── stable_diffusion/    ← Local image gen
+├── protocol/
+│   └── uriel_v2.toml
+└── docker-compose.yml
