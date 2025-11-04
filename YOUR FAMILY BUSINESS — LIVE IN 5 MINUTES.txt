@@ -1,0 +1,13 @@
+# 1. Claim
+curl -X POST https://uriel.faircollective.org/claim -d '{
+  "name": "Mama's Coffee",
+  "url": "mamacoffee.co.za",
+  "phone": "082-123-4567",
+  "location": "Cape Town"
+}'
+
+# 2. Create ad
+curl -X POST https://uriel.faircollective.org/ad -d '{
+  "text": "Freshly roasted beans — R120/kg — This weekend only!",
+  "opt_in": true
+}'
