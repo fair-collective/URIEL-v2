@@ -1,0 +1,12 @@
+# 1. Update repo
+gh repo edit fair-collective/uriel --description "Unbreakable AI Marketing Engine"
+
+# 2. Add v2 files
+git add .
+git commit -m "feat: Uriel v2 — Tamper-Proof Ads + Auto-Promotion"
+
+# 3. Push
+git push
+
+# 4. Deploy
+vercel --prod
