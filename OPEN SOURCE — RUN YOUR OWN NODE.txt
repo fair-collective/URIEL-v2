@@ -1,0 +1,4 @@
+# Run a Uriel Ad Node (show ads, earn rewards)
+git clone https://github.com/fair-collective/uriel
+cd uriel/network
+python node_server.py --location "Cape Town"
