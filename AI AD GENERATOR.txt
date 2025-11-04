@@ -1,0 +1,10 @@
+You type:
+"Weekend Special: 2 Cappuccinos + Croissant = R65. Valid in Cape Town. Call 082-123-4567."
+
+Uriel does:
+1. Pulls **free local coffee image** (Unsplash or AI-generated)
+2. Adds **your text + logo + contact**
+3. Generates **3 formats**: Banner, Instagram, Google Display
+4. Deploys to **Uriel Ad Network** (100+ open nodes)
+5. Shows only to **Cape Town users**
+6. Tracks **real clicks → real visits**
