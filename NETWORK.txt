@@ -1,0 +1,5 @@
+uriel-ad-network/
+├── nodes/                  ← Anyone runs a node (blog, PWA, app)
+├── ads/                    ← IPFS-stored ads (tamper-proof)
+├── placement.js            ← Auto-insert ads on partner sites
+└── rewards.py              ← Pay nodes in $URIEL (testnet)
